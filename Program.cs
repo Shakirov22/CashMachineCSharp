@@ -235,15 +235,22 @@ namespace CashMachine
 
         static void Main(string[] args)
         {
-            checkForArguments(args);
-            int sum = getSum(args);
-            ArrayList faceValuesArray = getFaceValuesArray(args);
-            if (!checkNullSum(sum))
+            try
             {
-                faceValuesArray.Sort();
-                CounterOptions counterOptions = new CounterOptions(faceValuesArray, sum);
-                long numberOptions = counterOptions.getNumberOptions();
-                printNumberOptions(numberOptions);
+
+                checkForArguments(args);
+                int sum = getSum(args);
+                ArrayList faceValuesArray = getFaceValuesArray(args);
+                if (!checkNullSum(sum))
+                {
+                    faceValuesArray.Sort();
+                    CounterOptions counterOptions = new CounterOptions(faceValuesArray, sum);
+                    long numberOptions = counterOptions.getNumberOptions();
+                    printNumberOptions(numberOptions);
+                }
+            } catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
             while (true) {
 

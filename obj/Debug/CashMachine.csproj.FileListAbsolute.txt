@@ -5,3 +5,10 @@ C:\Users\Professional\CSharp\6sem\CashMachine\obj\Debug\CashMachine.csprojAssemb
 C:\Users\Professional\CSharp\6sem\CashMachine\obj\Debug\CashMachine.csproj.CoreCompileInputs.cache
 C:\Users\Professional\CSharp\6sem\CashMachine\obj\Debug\CashMachine.exe
 C:\Users\Professional\CSharp\6sem\CashMachine\obj\Debug\CashMachine.pdb
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\bin\Debug\CashMachine.exe.config
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\bin\Debug\CashMachine.exe
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\bin\Debug\CashMachine.pdb
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\obj\Debug\CashMachine.csprojAssemblyReference.cache
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\obj\Debug\CashMachine.csproj.CoreCompileInputs.cache
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\obj\Debug\CashMachine.exe
+C:\Users\Professional\CSharp\Git\CashMachineCSharp\obj\Debug\CashMachine.pdb
