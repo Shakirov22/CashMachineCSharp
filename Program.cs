@@ -252,7 +252,7 @@ namespace CashMachine
             {
                 Console.WriteLine(e.Message);
             }
-            while (true) {
+            while (Console.ReadLine() == null) {
 
             }
         }
